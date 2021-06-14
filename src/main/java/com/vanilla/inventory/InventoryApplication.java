@@ -12,7 +12,7 @@ public class InventoryApplication{
 	
 	public static void main(String[] args) {
 	
-		ApplicationContext context = SpringApplication.run(InventoryApplication.class, args);
+		SpringApplication.run(InventoryApplication.class, args);
 	
 	}
  
